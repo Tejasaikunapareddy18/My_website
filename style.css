@@ -191,6 +191,7 @@ footer {
     margin-top: 40px;
 }
 
+/* Responsuve */
 @media (max-width: 768px) {
 
   /* Navbar */
@@ -217,7 +218,6 @@ footer {
   }
 }
 
-/* Responsive */
 @media (max-width: 480px) {
 
   /* Navbar */
@@ -285,3 +285,4 @@ footer {
     }
 
 }
+

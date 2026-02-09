@@ -217,6 +217,7 @@ footer {
   }
 }
 
+/* Responsive */
 @media (max-width: 480px) {
 
   /* Navbar */
@@ -282,4 +283,5 @@ footer {
     .hero {
         background-image: none;
     }
+
 }
